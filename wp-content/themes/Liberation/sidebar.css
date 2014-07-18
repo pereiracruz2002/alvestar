@@ -1,0 +1,172 @@
+.left{
+	padding:10px 0px 0px 0px;
+	width:300px;
+	float:right;
+	margin-right:20px;
+}
+
+/*sidebar */
+
+
+.sidetitl{
+	padding: 6px 0px 6px 8px;
+	color:#fff;
+	font-size:14px;
+	width:278px;
+	background:#CF0047;
+	position:relative;
+	font-family:Arial,Tahoma,Georgia,Century gothic,  sans-serif;
+	font-weight:bold;
+	margin:5px;
+	}
+
+.sidebox{
+	float:left;
+	width:298px;
+	padding-top:0px;
+	font-size:12px;
+	font-family: Arial,Tahoma,Century gothic, sans-serif;
+	margin:0px 0px 10px 0px;
+	background:#37282D;
+	display:inline;
+	border:1px solid #e5e5e5;
+	overflow:hidden;
+	}
+
+
+	
+.sidebox ul {
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+
+	}
+.sidebox li{
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+
+	}
+.sidebox ul ul  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 0px 10px 0px;
+	background-repeat:no-repeat;
+		}
+
+.sidebox ul ul ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+	}
+
+.sidebox ul ul ul ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+
+	}
+	
+.sidebox ul li {
+	height:100%;
+	line-height:28px;
+	float: left; 
+	clear: left;	
+	width: 298px;
+	list-style-type: none;
+	overflow:hidden;
+	}
+.sidebox ul li:hover{
+	background:#1F191B;
+	}
+.sidebox ul li a:link, .sidebox ul li a:visited {
+	color:#AF8E99;
+	text-decoration: none;
+	padding: 0px 0px 0px 10px;
+	display:block;
+	border-bottom:1px solid #4C393A;
+	}
+
+.sidebox ul li a:hover {
+
+	color: #BC0000;
+	}
+
+.sidebox p {
+	padding: 7px 10px;
+	margin:0;
+	}
+.sidebox div {
+	padding: 5px 10px;
+	margin:0;
+	}
+.sidebox table {
+	width:100%;
+	text-align:center;
+	color:#787d7f;
+	}	
+	
+li.recentcomments{
+	
+	padding-left:10px;
+}	
+	
+#wp-calendar{
+	width: 100%;
+	padding: 0 0 15px;
+	background:#37282D;
+}
+
+#wp-calendar caption{
+	padding: 0px 5px ;
+	font-size:14px;
+	color:#555;
+}
+
+#wp-calendar th, #wp-calendar td{
+	padding: 5px;
+	text-align:center;
+	background:#5F414B;
+	color:#eee;
+}
+
+#wp-calendar td a{
+	background:#fff;
+	padding: 3px;
+}
+#wp-calendar td{
+	background:transparent;
+}
+#wp-calendar td, table#wp-calendar th{
+	padding: 2px 0;
+}		
+
+
+.sidebox embed{
+ width:285px;
+ height:230px;
+ margin:5px;
+}
+
+.squarebanner {
+	width:300px;
+	background:url(images/line.png) bottom repeat-x;
+	padding:5px 0px;
+	overflow:hidden;
+	}
+
+.squarebanner ul{
+	list-style-type:none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px;
+	width:290px;
+		}
+		
+.squarebanner ul li{
+		list-style-type:none;
+	    margin: 7px 0px 7px 15px;
+		float:left;
+		display:inline;
+		}
